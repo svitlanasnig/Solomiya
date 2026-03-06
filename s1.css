@@ -1,0 +1,255 @@
+header{
+/* Rectangle 1 */
+
+position: absolute;
+width: 828px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+background: #A13636;
+
+
+}
+h1{
+    /* cafetería itavyva */
+
+position: absolute;
+width: 170px;
+height: 56px;
+left: 23px;
+top: 3px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #D0DA74;
+
+
+}
+h2{
+    /* головна */
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: 500px;
+top: 8px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 19px;
+
+color: #D0DA74;
+
+
+}
+h3{
+    /* меню */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 600px;
+top: 5px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 19px;
+
+color: #D0DA74;
+
+
+}
+h4{
+    /* доставка */
+
+position: absolute;
+width: 70px;
+height: 19px;
+left: 660px;
+top: -3px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 19px;
+
+color: #D0DA74;
+
+
+}
+main{
+  
+/* delicious-burger-flying-ingredients-creative-photography-food-dark-background-bokeh-325730212 1 */
+
+position: absolute;
+width: 828px;
+height: 465px;
+left: 0px;
+top: 10px;
+
+background: url(delicious-burger-flying-ingredients-creative-photography-food-dark-background-bokeh-325730212.png);
+
+}
+button{
+    /* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 298px;
+height: 55px;
+left: 298px;
+top: 397px;
+
+background: #B16565;
+border: 1px solid #FFFFFF;
+border-radius: 6px;
+color: yellow;
+}
+.text1{
+ /* відчуй смак сравжнього бургера для фаната бейблейда */
+
+position: absolute;
+width: 550px;
+height: 58px;
+left: 100px;
+top: 113px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #cae62e;
+
+
+
+
+}
+.text2{
+    /* якісні продукти ТІЛЬКИ у нас */
+
+position: absolute;
+width: 376.97px;
+height: 29px;
+left: 25px;
+top: 255px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFD9B0;
+
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+transform: rotate(-0.26deg);
+
+}
+
+
+footer{
+/* Rectangle 2 */
+
+position: absolute;
+width: 828px;
+height: 52px;
+left: 0px;
+top: 526px;
+
+background: #F8C187;
+opacity: 0.7;
+
+}
+
+.info{
+    /* про нас: */
+
+position: absolute;
+width: 142px;
+height: 43px;
+left: 25px;
+top: -20px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+
+color: #fa0000;
+
+
+
+}
+
+
+
+.img2{
+/* delicious-burger-flying-ingredients-creative-photography-food-dark-background-bokeh-325730212 1 */
+
+position: absolute;
+top: 50px;
+width: 828px;
+height: 465px;
+
+
+background: url(delicious-burger-flying-ingredients-creative-photography-food-dark-background-bokeh-325730212.png);
+
+}
+.info2{
+    /* продаємо їжу кращу ніж в кфс */
+
+position: absolute;
+width: 290px;
+height: 24px;
+left: 207px;
+top: -3px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #a11616;
+
+
+
+}
+.info3{
+  /* +380322645873 */
+
+position: absolute;
+width: 170px;
+height: 29px;
+left: 626px;
+top: -10px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #a11616;
+
+
+
+
+}
