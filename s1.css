@@ -30,7 +30,7 @@ color: #D0DA74;
 
 
 }
-h2{
+.h2{
     /* головна */
 
 position: absolute;
@@ -38,7 +38,7 @@ width: 69px;
 height: 20px;
 left: 500px;
 top: 8px;
-
+text-decoration: none;
 font-family: 'Inria Sans';
 font-style: normal;
 font-weight: 400;
@@ -49,7 +49,7 @@ color: #D0DA74;
 
 
 }
-h3{
+.h3{
     /* меню */
 
 position: absolute;
@@ -57,7 +57,7 @@ width: 55px;
 height: 55px;
 left: 600px;
 top: 5px;
-
+text-decoration: none;
 font-family: 'Inria Sans';
 font-style: normal;
 font-weight: 400;
@@ -68,15 +68,15 @@ color: #D0DA74;
 
 
 }
-h4{
+.h4{
     /* доставка */
 
 position: absolute;
 width: 70px;
 height: 19px;
 left: 660px;
-top: -3px;
-
+top: 5px;
+text-decoration: none;
 font-family: 'Inria Sans';
 font-style: normal;
 font-weight: 400;
