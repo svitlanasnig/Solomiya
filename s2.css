@@ -1,0 +1,580 @@
+header{
+/* Rectangle 1 */
+
+position: absolute;
+width: 828px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+background: #A13636;
+
+
+}
+h1{
+    /* cafetería itavyva */
+
+position: absolute;
+width: 170px;
+height: 56px;
+left: 23px;
+top: 3px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #D0DA74;
+
+
+}
+h2{
+    /* головна */
+
+position: absolute;
+width: 69px;
+height: 20px;
+left: 500px;
+top: 8px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 19px;
+
+color: #D0DA74;
+
+
+}
+h3{
+    /* меню */
+
+position: absolute;
+width: 55px;
+height: 55px;
+left: 600px;
+top: 5px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 19px;
+
+color: #D0DA74;
+
+
+}
+h4{
+    /* доставка */
+
+position: absolute;
+width: 70px;
+height: 19px;
+left: 660px;
+top: -3px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 19px;
+
+color: #D0DA74;
+
+
+}
+main{
+  
+/* delicious-burger-flying-ingredients-creative-photography-food-dark-background-bokeh-325730212 1 */
+
+position: absolute;
+width: 828px;
+height: 465px;
+left: 0px;
+top: 10px;
+
+
+}
+.photo1{
+    /* Rectangle 10 */
+
+position: absolute;
+width: 126px;
+height: 116px;
+left: 100px;
+top: 109px;
+
+background: url(Mcd_UA_832x822_McCrispy Creamy BBQ Deluxe_nutrition-calculator-tile.png);
+
+    
+}
+.photo2{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 126px;
+height: 116px;
+left: 315px;
+top: 107px;
+
+background: url(Big Tasty Single_nutrition-calculator-tile.png);
+
+}
+.photo3{
+    /* Rectangle 7 */
+
+position: absolute;
+width: 126px;
+height: 116px;
+left: 548px;
+top: 97px;
+
+background: url(McD_Frites_Middle_v2_nutrition-calculator-tile.png);
+
+}
+.photo4{
+    /* Rectangle 9 */
+
+position: absolute;
+width: 126px;
+height: 116px;
+left: 96px;
+top: 281px;
+
+background: url(McD_KETCHUP SOUCE_nutrition-calculator-tile.png);
+
+}
+.photo5{
+    /* Rectangle 13 */
+
+position: absolute;
+width: 126px;
+height: 116px;
+left: 320px;
+top: 298px;
+
+background: url(McD_McFlurry-KARAMEL_nutrition-calculator-tile.png);
+
+}
+.photo6{
+    /* Rectangle 11 */
+
+position: absolute;
+width: 126px;
+height: 116px;
+left: 548px;
+top: 284px;
+
+background: url(McD_Nuggets_20pcs_v2_nutrition-calculator-tile.png);
+
+}
+.text1{
+    /* макс кріпі барбекю */
+
+position: absolute;
+width: 170px;
+height: 37px;
+left: 100px;
+top: 204px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+
+
+}
+p1{
+    /* 340 грн */
+
+position: absolute;
+width: 43px;
+height: 14px;
+left: 137px;
+top: 235px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+
+}
+.but1{
+    /* Rectangle 14 */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: 100px;
+top: 249px;
+
+background: #E0D624;
+border-radius: 5px;
+
+}
+.text2{
+    /* макс томато зелень */
+
+position: absolute;
+width: 145px;
+height: 18px;
+left: 320px;
+top: 204px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+p2{
+    /* 550 грн */
+
+position: absolute;
+width: 43px;
+height: 14px;
+left: 361px;
+top: 235px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+
+}
+.but2{
+    /* Rectangle 15 */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: 319px;
+top: 249px;
+
+background: #E0D624;
+border-radius: 5px;
+
+}
+.text3{
+  /* картопля фрі середня */
+
+position: absolute;
+width: 181px;
+height: 19px;
+left: 548px;
+top: 206px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+
+}
+p3{
+    /* 90 грн */
+
+position: absolute;
+width: 37px;
+height: 14px;
+left: 593px;
+top: 235px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+
+}
+.but3{
+    /* Rectangle 16 */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: 557px;
+top: 249px;
+
+background: #E0D624;
+border-radius: 5px;
+
+}
+.text4{
+    /* кетчуп */
+
+position: absolute;
+width: 53px;
+height: 19px;
+left: 145px;
+top: 370px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+}
+p4{
+    /* 50 грн */
+
+position: absolute;
+width: 37px;
+height: 14px;
+left: 150px;
+top: 410px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+
+}
+.but4{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: 100px;
+top: 440px;
+
+background: #E0D624;
+border-radius: 5px;
+
+}
+.text5{
+    /* макс фурі */
+
+position: absolute;
+width: 74px;
+height: 19px;
+left: 346px;
+top: 395px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+}
+p5{
+    /* 60000грн */
+
+position: absolute;
+width: 57px;
+height: 14px;
+left: 354px;
+top: 424px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+
+
+}
+.but5{
+    /* Rectangle 18 */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: 328px;
+top: 438px;
+
+background: #E0D624;
+border-radius: 5px;
+
+}
+.text6{
+    /* мертва курочка в клярі */
+
+position: absolute;
+width: 169px;
+height: 18px;
+left: 548px;
+top: 398px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+p6{
+    /* 105 грн */
+
+position: absolute;
+width: 45px;
+height: 16px;
+left: 593px;
+top: 429px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.but6{
+    /* Rectangle 17 */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: 557px;
+top: 442px;
+
+background: #E0D624;
+border-radius: 5px;
+
+}
+
+
+
+
+footer{
+/* Rectangle 2 */
+
+position: absolute;
+width: 828px;
+height: 52px;
+left: 0px;
+top: 526px;
+
+background: #F8C187;
+opacity: 0.7;
+
+}
+
+.info{
+    /* про нас: */
+
+position: absolute;
+width: 142px;
+height: 43px;
+left: 25px;
+top: -20px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+
+color: #fa0000;
+
+
+
+}
+
+
+
+.img2{
+/* delicious-burger-flying-ingredients-creative-photography-food-dark-background-bokeh-325730212 1 */
+
+position: absolute;
+top: 50px;
+width: 828px;
+height: 465px;
+
+
+background: url(delicious-burger-flying-ingredients-creative-photography-food-dark-background-bokeh-325730212.png);
+
+}
+.info2{
+    /* продаємо їжу кращу ніж в кфс */
+
+position: absolute;
+width: 290px;
+height: 24px;
+left: 207px;
+top: -3px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+color: #a11616;
+
+
+
+}
+.info3{
+  /* +380322645873 */
+
+position: absolute;
+width: 170px;
+height: 29px;
+left: 626px;
+top: -10px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #a11616;
+
+
+
+
+}
